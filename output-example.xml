@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:wp="http://wordpress.org/export/1.2/">
+	<channel>
+		<language>it</language>
+		<wp:wxr_version>1.2</wp:wxr_version>
+		<wp:author>
+			<wp:author_id>5</wp:author_id>
+			<wp:author_login>
+				<![CDATA[marcogomiero]]>
+			</wp:author_login>
+			<wp:author_email>
+				<![CDATA[m.gomiero@zeromag.eu]]>
+			</wp:author_email>
+			<wp:author_display_name>
+				<![CDATA[Marco Gomiero]]>
+			</wp:author_display_name>
+			<wp:author_first_name>
+				<![CDATA[Marco]]>
+			</wp:author_first_name>
+			<wp:author_last_name>
+				<![CDATA[Gomiero]]>
+			</wp:author_last_name>
+		</wp:author>
+		<generator>https://wordpress.org/?v=4.8.1</generator>
+		<item>
+			<title>droidcon Italy 2017: cosa ci riserva la seconda giornata?</title>
+			<pubDate>Thu, 16 Mar 2017 10:20:00 +0100</pubDate>
+			<dc:creator>
+				<![CDATA[Marco Gomiero]]>
+			</dc:creator>
+			<description>Continuiamo a parlare del droidcon 2017 e in particolare di quello che ci riserverà il secondo giorno</description>
+			<content:encoded>
+				<![CDATA[<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #757575; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;"><span style="box-sizing: border-box; font-size: medium;">La settimana scorsa vi abbiamo parlato della prima giornata del <strong style="box-sizing: border-box;">droidcon Italy</strong> 2017; in breve, per chi non lo sapesse, il droidcon 2017 è una manifestazione interamente dedicata ad Android che si terrà il <strong style="box-sizing: border-box;">6 e 7 Aprile</strong> a Torino. Vi invitiamo però a dare un'occhiata <a href="http://www.zeromag.eu/sito/articolo.php?id=2757&i=droidcon_Italy_2017:_cosa_aspettarsi_il_primo_giorno?" target="_blank"><span style="box-sizing: border-box; color: #ff0000;">al nostro precedente articolo</span></a> per avere maggiori informazioni a riguardo.</span></p><p style="box-sizing: border-box; margin: 0px 0px 10px; color: #757575; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;"><span style="box-sizing: border-box; font-size: medium;">La <strong style="box-sizing: border-box;">seconda e ultima giornata</strong> del droidcon 2017 si apre con un keynote molto interessante tenuto da Lisa Wray, che vuole analizzare il perchè Android è molto spesso una seconda scelta in occasione dei lanci di nuovi giochi o applicazioni, sebbene Android sia la principale piattaforma mobile. La mattinata prosegue poi con talk altrettanto interessanti: si parlerà di <strong style="box-sizing: border-box;">Google Assistant</strong> (Working with Google Assistant - by Erik Hellman), di <strong style="box-sizing: border-box;">sicurezza</strong>(Android Security, an Enterprise perspective - by Pietro F. Maggi), di <strong style="box-sizing: border-box;">realtà virtuale</strong> (Android Things and VR to create engaging casual games - by Claudio Capobianco, Giovanni Laquidara, Alessandro Man) e di <strong style="box-sizing: border-box;">come "deliziare gli utenti"</strong> (Delight(ing) your user(s) - by Wiebe Elsinga).</span></p><p style="box-sizing: border-box; margin: 0px 0px 10px; color: #757575; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;"><span style="box-sizing: border-box; font-size: medium;">Dopo pranzo si continua ancora con <strong style="box-sizing: border-box;">sicurezza </strong>(What’s NNNNNNNNew in Android Security? -  by Scott Alexander-Bown), <strong style="box-sizing: border-box;">Android Things</strong> (Raspberry Pi 3 and Android Thing - by Tam Hanna), <strong style="box-sizing: border-box;">chat bot</strong> (Create your first Chatbot - by Davide Gomba) e <strong style="box-sizing: border-box;">videogiochi </strong>(Retro games for Android devices? -At your service! - by Marco Mazzaglia  & From zero to play store: developing a mobile videogame with Unity3D  - by Massimo Frasson). </span></p><p style="box-sizing: border-box; margin: 0px 0px 10px; color: #757575; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;"><span style="box-sizing: border-box; font-size: medium;">Ovviamente questa non è una lista esaustiva; per dare un'occhiata all'agenda completa potete dare un'occhiata <a href="http://it.droidcon.com/2017/schedule/" target="_blank"><span style="box-sizing: border-box; color: #ff0000;">al sito ufficiale del droidcon Italy</span></a><span style="box-sizing: border-box; color: #ff0000;">. </span>La carne a fuoco è molta, dunque non ci resta che augurarvi un buon droidcon se già avete intenzione di venire o di invitarvi a venire se ancora avete dei dubbi! Qualora non riusciste a venire, noi di <strong style="box-sizing: border-box;">ZeroMag </strong>penseremo a voi: potrete seguirci qui sul <strong style="box-sizing: border-box;">sito </strong>e sui nostri <strong style="box-sizing: border-box;">social</strong> per avere un <strong style="box-sizing: border-box;">report completo della manifestazione. </strong></span></p>]]>
+			</content:encoded>
+			<wp:post_id>3050</wp:post_id>
+			<wp:post_date>
+				<![CDATA[2017-03-16 10:20:00]]>
+			</wp:post_date>
+			<wp:status>publish</wp:status>
+			<wp:post_type>post</wp:post_type>
+			<category domain="category" nicename="tech">
+				<![CDATA[Tech]]>
+			</category>
+			<category domain="post_tag" nicename="developer">
+				<![CDATA[developer]]>
+			</category>
+			<category domain="post_tag" nicename="droidcon italy">
+				<![CDATA[droidcon italy]]>
+			</category>
+			<category domain="post_tag" nicename="androiddev">
+				<![CDATA[androiddev]]>
+			</category>
+			<category domain="post_tag" nicename="sviluppo">
+				<![CDATA[sviluppo]]>
+			</category>
+			<category domain="post_tag" nicename="android">
+				<![CDATA[android]]>
+			</category>
+			<category domain="post_tag" nicename="selezione 1">
+				<![CDATA[Selezione 1]]>
+			</category>
+			<category domain="post_tag" nicename="droidcon">
+				<![CDATA[droidcon]]>
+			</category>
+			<category domain="post_tag" nicename="synesthesia">
+				<![CDATA[synesthesia]]>
+			</category>
+			<category domain="post_tag" nicename="lingotto">
+				<![CDATA[lingotto]]>
+			</category>
+			<category domain="post_tag" nicename="torino">
+				<![CDATA[torino]]>
+			</category>
+		</item>
+		
+	</channel>
+</rss>
